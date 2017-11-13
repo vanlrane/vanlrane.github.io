@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&lt;钟奇志&gt;</title>
+    <description>一个人最好的生活状态，是该看书时看书，该玩时尽情玩，看见优秀的人欣赏，看到落魄的人也不轻视，有自己的生活和小情趣，不用想去改变世界，努力活出自己，没人爱时专注自己，有人爱时有能力拥抱彼此。
+</description>
+    <link>http:///</link>
+    <atom:link href="http:///feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 13 Nov 2017 12:33:40 +0800</pubDate>
+    <lastBuildDate>Mon, 13 Nov 2017 12:33:40 +0800</lastBuildDate>
+    <generator>Jekyll v3.6.2</generator>
+    
+      <item>
+        <title>My blog done</title>
+        <description>&lt;h3 id=&quot;历时整整两天终于把博客弄好了&quot;&gt;历时整整两天终于把博客弄好了&lt;/h3&gt;
+
+&lt;p&gt;其实很早就有建立一个独立博客的想法了，由于接二连三的各种事情，拖延到现在，今天终于弄好了，今天发表第一篇自己的博文。我想在这建立一个属于自己的空间，定期会发一些包括自己的感想，生活趣事，工作学习中的收获，还会分享一些各种领域的干货资源，希望给进入我博客的有缘人一些帮助。
+目前大四狗马上就要去实习了，只剩下一个星期不到，临走时有点舍不得的.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 12 Oct 2017 22:30:00 +0800</pubDate>
+        <link>http:///word/2017/10/12/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2.html</link>
+        <guid isPermaLink="true">http:///word/2017/10/12/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2.html</guid>
+        
+        
+        <category>word</category>
+        
+      </item>
+    
+  </channel>
+</rss>
