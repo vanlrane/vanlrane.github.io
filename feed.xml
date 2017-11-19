@@ -6,18 +6,20 @@
 </description>
     <link>https://vanlrane.github.io/</link>
     <atom:link href="https://vanlrane.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 14 Nov 2017 22:56:14 +0800</pubDate>
-    <lastBuildDate>Tue, 14 Nov 2017 22:56:14 +0800</lastBuildDate>
+    <pubDate>Fri, 17 Nov 2017 11:07:35 +0800</pubDate>
+    <lastBuildDate>Fri, 17 Nov 2017 11:07:35 +0800</lastBuildDate>
     <generator>Jekyll v3.6.2</generator>
     
       <item>
         <title>Guitar Video</title>
-        <description>&lt;h2&gt;#&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&quot;https://photo.zhuiyinanian.com/2a2078da-783f-c761-5ebf-152a4af3e445.mp4?e=1511499547&amp;amp;token=2caeYdL9QSwjhpJc2v05LLgaOrk_Mc_HterAtD28:V5Ln94Hjdw3tgPdasuQ7ZE1zNjE=&quot;&gt;&lt;img class=&quot;img-travel&quot; src=&quot;https://photo.zhuiyinanian.com/2e08799c-dd95-a732-264d-4b8ccff5776f%E9%80%89%E5%8C%BA_008.png?imageView2/2/w/600&amp;amp;e=1511500215&amp;amp;token=2caeYdL9QSwjhpJc2v05LLgaOrk_Mc_HterAtD28:HFmqRU2kn_Ya-9WNSPTD60jGPWA=&quot; alt=&quot;phuket resort view&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+        <description>&lt;h3 id=&quot;吉他弹唱&quot;&gt;吉他弹唱&lt;/h3&gt;
+&lt;video controls=&quot;&quot; name=&quot;media&quot;&gt;
+            &lt;source src=&quot;https://photo.zhuiyinanian.com/2a2078da-783f-c761-5ebf-152a4af3e445.mp4?e=1511750721&amp;amp;token=2caeYdL9QSwjhpJc2v05LLgaOrk_Mc_HterAtD28:ZaIYNFuVC3vaCEdG3fXvaoizmL8=&quot; type=&quot;video/mp4&quot; style=&quot;width: 100%; height: auto&quot; /&gt;
+        &lt;/video&gt;
 </description>
-        <pubDate>Tue, 14 Nov 2017 10:00:00 +0800</pubDate>
-        <link>https://vanlrane.github.io/guitar/2017/11/14/guitar.html</link>
-        <guid isPermaLink="true">https://vanlrane.github.io/guitar/2017/11/14/guitar.html</guid>
+        <pubDate>Wed, 15 Nov 2017 10:00:00 +0800</pubDate>
+        <link>https://vanlrane.github.io/guitar/2017/11/15/guitar-video.html</link>
+        <guid isPermaLink="true">https://vanlrane.github.io/guitar/2017/11/15/guitar-video.html</guid>
         
         
         <category>guitar</category>
@@ -125,9 +127,9 @@
 
 &lt;/div&gt;
 </description>
-        <pubDate>Mon, 13 Nov 2017 04:00:00 +0800</pubDate>
-        <link>https://vanlrane.github.io/travel/2017/11/13/second-blog.html</link>
-        <guid isPermaLink="true">https://vanlrane.github.io/travel/2017/11/13/second-blog.html</guid>
+        <pubDate>Tue, 14 Nov 2017 04:00:00 +0800</pubDate>
+        <link>https://vanlrane.github.io/travel/2017/11/14/travel-over.html</link>
+        <guid isPermaLink="true">https://vanlrane.github.io/travel/2017/11/14/travel-over.html</guid>
         
         
         <category>travel</category>
